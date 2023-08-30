@@ -28,12 +28,6 @@ Then run the following commands in the root directory of the project.
 npm install
 ```
 
-Screenshots
-Screenshot 1
-![image](https://github.com/iJazzQant/git-intro/blob/main/github_activity/src/app/images/screenshots1.png)
-Screenshot 2
-![image](https://github.com/iJazzQant/git-intro/blob/main/github_activity/src/app/images/screenshots2.png)
-
 ### Prerequisites
 
 - Node.js
@@ -48,5 +42,12 @@ Screenshot 2
  ```
  npm run dev
 ```
+
+### Screenshots
+
+Screenshot 1
+![image](https://github.com/iJazzQant/git-intro/blob/main/github_activity/src/app/images/screenshots1.png)
+Screenshot 2
+![image](https://github.com/iJazzQant/git-intro/blob/main/github_activity/src/app/images/screenshots2.png)
 
     
