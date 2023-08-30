@@ -24,8 +24,9 @@ First, clone or download the ZIP of the repository.
 
 Then run the following commands in the root directory of the project.
 
-bash```
-npm install```
+```
+npm install
+```
 
 ### Prerequisites
 
@@ -38,7 +39,8 @@ npm install```
 
  After successfully installing the dependencies, you may now view the simple Next JS application by running the following command in the root directory of the project.
 
- bash ```
-    npm run dev```
+ ```
+ npm run dev
+```
 
     
